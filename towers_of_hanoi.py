@@ -2,7 +2,7 @@
 # using the spare rod as an auxiliary. It recursively moves disks while maintaining the rules of the puzzle.
 # please see this youtube video for explanation 
 
-# link to youtube explanation https://youtu.be/buWXDMbY3Ww?si=asJ45IRVzKnpc7f7
+# link to youtube explanation: https://youtu.be/buWXDMbY3Ww?si=asJ45IRVzKnpc7f7
 
 def hanoi(n, source, target, spare):
     if n > 0:
